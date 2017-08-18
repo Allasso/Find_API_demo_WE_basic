@@ -3,6 +3,14 @@
  *
  * BASIC DEMONSTRATION
  *
+ * Files:
+ *  background.js
+ *  manifest.json
+ *  README
+ *  button_close_blue_12.png
+ *
+ * (Warning - LOTS of documentation within the code)
+ *
  * Demonstrates browser.find.search, browser.find.highlightResults, and
  * browser.find.removeHighlighting.
  *
